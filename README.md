@@ -95,6 +95,17 @@ The project compares:
 
 BioBERT achieved better performance than the BiLSTM model.
 
+## Project Structure
+
+```
+Medical-Triage-Classification/
+│── README.md
+│── medical_triage.ipynb
+│── mtsamples.csv
+│── images/
+└
+```
+
 
 ---
 ## Future Improvements
@@ -110,7 +121,7 @@ BioBERT achieved better performance than the BiLSTM model.
 
 **Palak Chadha**
 
-B.Tech Student  
+B.E. Student   
 Thapar Institute of Engineering and Technology
 
 
